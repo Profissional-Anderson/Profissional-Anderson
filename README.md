@@ -27,7 +27,7 @@
 - ***Projeto de vida.*** 🚀
 - ***Postura e Imagem Profissional.*** 👦
 
-## 🌐 Contato:
+## 🌐 Contatos:
 
 #### Portanto tenho conhecimento em diferentes ferramentas onde me auxiliam a melhorar meu ramo de atuação de maneira que melhore meu trabalho.  Entre em contato nas minhas Redes Sociais e Email agora mesmo, assim posso saber o que será necessário para começar a trabalhar para você ou sua empresa.  👇
 
