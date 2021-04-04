@@ -4,7 +4,7 @@
 
 ### *irei contar um pouco de minha carreira profissional para que vocês me conheçam, assim compreenderão melhor minhas habilidades e vida profissional.*
 
->  1. Primeiramente sou estudante faço um curso técnico profissionalizante (Curso Técnico de Informática) onde faz parte da
+>  1. Primeiramente sou estudante faço um curso técnico profissionalizante (Curso Técnico em Informática) onde faz parte da
 > Tecnologia da Informação (T.I)
 
 ## 👨‍💻 Tenho algumas aptidões com: 
@@ -31,6 +31,5 @@
 
 #### Portanto tenho conhecimento em diferentes ferramentas onde me auxiliam a melhorar meu ramo de atuação de maneira que melhore meu trabalho.  Entre em contato nas minhas Redes Sociais e Email agora mesmo, assim posso saber o que será necessário para começar a trabalhar para você ou sua empresa.  👇
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=profissionalandersonoliveira@gmail.com)](profissionalandersonoliveira@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/)](https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/) 
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=profissionalandersonoliveira@gmail.com)](profissionalandersonoliveira@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/)](https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tecnico_andersonoliveira/)](hhttps://www.instagram.com/tecnico_andersonoliveira/) 
 
