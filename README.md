@@ -27,9 +27,8 @@
 - ***Projeto de vida.*** 🚀
 - ***Postura e Imagem Profissional.*** 👦
 
-## 🌐 Contatos:
+## 🌐 Contato:
 
 #### Portanto tenho conhecimento em diferentes ferramentas onde me auxiliam a melhorar meu ramo de atuação de maneira que melhore meu trabalho.  Entre em contato nas minhas Redes Sociais e Email agora mesmo, assim posso saber o que será necessário para começar a trabalhar para você ou sua empresa.  👇
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=profissionalandersonoliveira@gmail.com)](profissionalandersonoliveira@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/)](https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tecnico_andersonoliveira/)](hhttps://www.instagram.com/tecnico_andersonoliveira/) 
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=Gmail&logoColor=white&link=profissionalandersonoliveira@gmail.com)](profissionalandersonoliveira@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/)](https://www.linkedin.com/in/francisco-anderson-de-moura-oliveira-898b021b9/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tecnico_andersonoliveira/)](https://www.instagram.com/tecnico_andersonoliveira/) 
